@@ -22,7 +22,7 @@ def atividade2():
         else:
             resposta = 0
     elif menu == 4:
-        if num2 == 0:
+        if y == 0:
             print("Não é possível dividir por zero!")
             resposta = None
         else:
